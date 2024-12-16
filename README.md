@@ -166,6 +166,4 @@ Without registration the system will not recognize you.
 
 3. You can view the attendance sheet for your reference.
 
-![A5](https://user-images.githubusercontent.com/79044490/194722590-08611b50-af90-4bd0-8607-d6a3df330ff8.png)
-
 Congratulations! You have successfully used the Face Recognition Advance Attendance System to register yourself and mark your attendance. Repeat the process whenever you need to mark your attendance in the future.
