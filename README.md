@@ -143,7 +143,6 @@ Without registration the system will not recognize you.
 
 5. Wait for the system to process the image and confirm the registration.
 
-![A4](https://user-images.githubusercontent.com/79044490/194722583-1f1c2181-f1af-48f4-ae66-a9f1c0adae39.png)
 
 ### Step 3: Mark Your Attendance
 1. Click on the "MARK ATTENDANCE" option in the sidebar menu.
