@@ -160,7 +160,7 @@ Without registration the system will not recognize you.
 
 7. Once the attendance is marked, you can close the webcam window.
 
-![A2](https://user-images.githubusercontent.com/79044490/194722538-0c93231f-8284-41d4-adaa-7b7ebcace883.png)
+
 
 ### Step 4: View Attendance Sheet
 1. Click on the "ATTENDANCE SHEET" option in the sidebar menu.
