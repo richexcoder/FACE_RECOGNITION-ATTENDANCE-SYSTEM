@@ -131,8 +131,6 @@ Before getting started, make sure you have the following:
 
 Without registration the system will not recognize you.
 
-![A3](https://user-images.githubusercontent.com/79044490/194722566-dd276a5a-7c82-45d7-97dd-687259213e00.png)
-
 1. Click on the "REGISTER" option in the sidebar menu.
 
 2. You will be directed to the registration page.
